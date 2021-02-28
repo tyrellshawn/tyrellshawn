@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-[![Ola's github stats](https://github-readme-stats.vercel.app/api?username=tyrellshawn&count_private=true&show_icons=true&theme=cobalt)]
+![Ola's github stats](https://github-readme-stats.vercel.app/api?username=tyrellshawn&count_private=true&show_icons=true&theme=cobalt)
 
 ## A little about me
 - 🔭 I currently just finished studying Computer Engineering (uOttawa'21)
