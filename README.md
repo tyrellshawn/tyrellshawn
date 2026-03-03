@@ -1,5 +1,4 @@
 
-### Hi there 👋
+### Welcome| Bienvenue | Hola | Ola 
 
-## A little about me
-- 🔭Read more here https://[ola](https://ola.canadian-ai.ca/)
+- 🔭Read more here https://[ola](https://ola.canadian-ai.ca/) 
